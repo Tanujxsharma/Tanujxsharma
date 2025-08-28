@@ -70,7 +70,7 @@
 ## 🛠 Languages and Tools:
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://raw.githubusercontent.com/Tanujxsharma/sohil-khann/main/img/java.png" alt="Java" width="50px" height="50px" />
+  <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/java.png" alt="Java" width="50px" height="50px" />
   <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/programming.png" alt="OOPS" width="50px" height="50px" />
   <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/python.png" alt="Python" width="50px" height="50px" />
   <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/icons8-django-48.png" alt="Django" width="50px" height="50px" />
