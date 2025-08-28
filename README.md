@@ -40,22 +40,24 @@
 
 ---
 
-### MoniTrol (Aug 2025)
-- A Modern Full Stack event monitoring SaaS.  
-- Built with Next.js App Router, PostgreSQL, TypeScript, Tailwind CSS & Clerk.  
+### Jobque - Comprehensive Service Marketplace Platform with API Integration (Aug 2024)
+- Led frontend development with React, implementing modular UI components and ensuring cross-browser
+  compatibility.  
+- Technologies, tools used. Reactjs , Node js , MongoDB .
 - Integrated APIs to enhance functionality and data flow between services.
 
 ---
 
-### Crowd Wave (Sep 2024 - Dec 2024)
-- Developed Android application to manage events, ticket bookings, and attendee management.  
-- Built with Flutter SDK, Dart, Firebase, Firestore.  
-- Integrated Firebase Authentication for secure user login.  
-- Implemented Firestore for real-time data storage and retrieval.
+### Lots of Bags – Personalized E-commerce Platform for Small Businesses (January 2025 - March 2025)
+- Developed dynamic, server-rendered frontend using EJS with Node.js; maintained scalable NoSQL databases with
+  MongoDB
+- Built with Express js , Node js , MongoDB.  
+- Implemented and executed manual and automated test cases for key e-commerce features like checkout and product
+  upload
 
 ---
 
-### Diabetes Prediction Model (Jan 2021 - Mar 2021)
+### Diabetes Prediction Model (Jan 2025 - Mar 2025)
 - Trained Machine Learning model using Python algorithms including Logistic Regression, Random Forest, and Naïve Bayes.  
 - Implemented various Data Pre-processing techniques.  
 - Integrated APIs to enhance functionality and data flow.
@@ -68,7 +70,7 @@
 ## 🛠 Languages and Tools:
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/java.png" alt="Java" width="50px" height="50px" />
+  <img src="https://raw.githubusercontent.com/Tanujxsharma/sohil-khann/main/img/java.png" alt="Java" width="50px" height="50px" />
   <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/programming.png" alt="OOPS" width="50px" height="50px" />
   <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/python.png" alt="Python" width="50px" height="50px" />
   <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/icons8-django-48.png" alt="Django" width="50px" height="50px" />
