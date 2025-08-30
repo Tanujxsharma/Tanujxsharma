@@ -115,7 +115,7 @@
 
 <div align="center">
   <h2>📊 LeetCode Stats</h2>
-  <img src="https://leetcode-stats.vercel.app/api?username=sohil_khan07&theme=dark" />
+  <img src="https://leetcode-stats.vercel.app/api?username=Tanujxsharma&theme=dark" />
 </div>
 
 <hr>
