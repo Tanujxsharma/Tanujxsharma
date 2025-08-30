@@ -113,4 +113,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanujxsharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
+<div align="center">
+  <h2>📊 LeetCode Stats</h2>
+  <img src="https://leetcode-stats.vercel.app/api?username=sohil_khan07&theme=dark" />
+</div>
+
 <hr>
