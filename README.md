@@ -7,8 +7,6 @@
 - 📫 Visit on my Linkedin Profile "https://www.linkedin.com/in/tanujxsharma/"  
 <br>    
 
-
-
 <hr>
 ### 🔗 Connect with me:
 <div align="left" style="display:flex; justify-content:space-around;">
