@@ -62,9 +62,6 @@
 
 <hr>
 
-
-
-
 ## 🛠 Languages and Tools:
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
@@ -94,10 +91,7 @@
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-
 <hr>
-
 ## 📊 GitHub Stats:
 
 <p align="center">
