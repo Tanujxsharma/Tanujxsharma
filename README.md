@@ -34,7 +34,7 @@
 **IDEs:** VS Code, Eclipse, Android Studio  
 
 <hr>
-## 🚀 Projects:
+<h3>## 🚀 Projects:</h3>
 
 ---
 
@@ -92,7 +92,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <hr>
-## 📊 GitHub Stats:
+<h3>## 📊 GitHub Stats:</h3>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanujxsharma&show_icons=true&theme=radical" />
