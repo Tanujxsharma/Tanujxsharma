@@ -62,7 +62,7 @@
 
 <hr>
 
-## 🛠 Languages and Tools:
+<h2>## 🛠 Languages and Tools:</h2>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://raw.githubusercontent.com/sohil-khann/sohil-khann/main/img/java.png" alt="Java" width="50px" height="50px" />
@@ -82,7 +82,7 @@
 
 <br/>
 
-### 💻 Tech Stack:
+<h2>### 💻 Tech Stack:</h2>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
