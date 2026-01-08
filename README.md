@@ -8,7 +8,7 @@
 <br>    
 
 <hr>
-### 🔗 Connect with me:
+<h2>## 🔗 Connect with me:</h2>
 <div align="left" style="display:flex; justify-content:space-around;">
   <a href="https://www.linkedin.com/in/tanujxsharma/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
