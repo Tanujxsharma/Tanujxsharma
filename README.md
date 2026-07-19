@@ -27,11 +27,16 @@
 <hr>
 
 ## 🛠 Languages and Tools:
-**Languages:** Java, Python, JavaScript,  
+**Languages:** Java, Python, JavaScript
+
 **Databases:** MySQL, MongoDB, Oracle  
+
 **FrontEnd:** React.js, HTML, CSS, Tailwind CSS
+
 **Backend:** Spring Boot, Spring Data JPA, Hibernate, Node.js, Express.js, REST APIs, Microservices, JWT, OAuth2
+
 **Tools and Practices:** Git, GitHub, Postman, Swagger / OpenAPI, Agile/Scrum basics  
+
 **IDEs:** VS Code, Eclipse, Android Studio  
 
 <hr>
@@ -41,11 +46,16 @@
 
 ### Medibook — Online Appointment Booking System
 Tech Stack: React, Spring Boot (Microservices), MySQL, Hibernate, JPA, JWT, OAuth2
+
 • Architected a microservice-based backend with Spring Boot, splitting appointment booking, scheduling, and user management into
 independent, scalable services.
+
 • Modeled and persisted relational data in MySQL using Hibernate and Spring Data JPA repositories for efficient, maintainable data access.
+
 • Implemented secure authentication and authorization using JWT and OAuth2 across all microservices.
+
 • Developed a responsive React frontend enabling patients to search, book, and manage appointments seamlessly.
+
 • Designed REST APIs connecting frontend and backend microservices, ensuring reliable inter-service communication.
 
 
@@ -62,8 +72,11 @@ independent, scalable services.
 
 ### Quantity Measurement App
 Tech Stack: Spring Boot, React, MySQL
+
 • Built a full-stack application enabling users to perform unit conversions and quantity measurements in real time.
+
 • Designed and implemented REST APIs with Spring Boot to power backend services and data handling.
+
 • Deployed the backend on Railway and frontend on Vercel, delivering a fully hosted, responsive production application.
 
 <hr>
